@@ -1,0 +1,29 @@
+This is the README file for Bundle::POE::Simple::TCPIP::Services
+
+Please refer to 'perldoc Bundle::POE::Simple::TCPIP::Services after 
+installation for details.
+
+#####################################################################
+
+* Description
+
+Bundle::POE::Simple::TCPIP::Services
+
+    Bundle to install all POE modules that provide simple TCPIP 
+    services.
+    
+#####################################################################
+
+* Installation
+
+Bundle::POE::Simple::TCPIP::Services follows the standard perl module 
+install process
+
+perl Makefile.PL
+make
+make test
+make install
+
+The module uses no C or XS parts, so no c-compiler is required.
+
+######################################################################
