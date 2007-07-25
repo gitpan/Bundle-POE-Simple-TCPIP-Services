@@ -3,7 +3,7 @@ package Bundle::POE::Simple::TCPIP::Services;
 use strict;
 use vars qw($VERSION);
 
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 1;
 
@@ -11,7 +11,7 @@ __END__
 
 =head1 NAME
 
-Bundle::POE::Simple::TCPIP::Services - a bundle to install all POE simple TCP/IP services modules.
+Bundle::POE::Simple::TCPIP::Services - A bundle to install all POE simple TCP/IP services modules.
 
 =head1 SYNOPSIS
 
@@ -32,7 +32,7 @@ Microsoft Windows terms "Simple TCP/IP Services", namely:
 
 POE 0.38
 
-POE::Component::Server::Echo 1.50
+POE::Component::Server::Echo 1.52
 
 POE::Component::Server::Chargen
 
