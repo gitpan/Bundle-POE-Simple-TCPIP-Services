@@ -1,8 +1,9 @@
 --- 
 abstract: A bundle to install all POE simple TCP/IP services modules.
-author: Chris Williams <chris@bingosnet.co.uk>
+author: 
+  - Chris Williams <chris@bingosnet.co.uk>
 distribution_type: module
-generated_by: Module::Install version 0.67
+generated_by: Module::Install version 0.68
 license: perl
 meta-spec: 
   url: http://module-build.sourceforge.net/META-spec-v1.3.html
@@ -12,4 +13,4 @@ no_index:
   directory: 
     - inc
     - t
-version: 1.01
+version: 1.02

@@ -3,7 +3,7 @@ package Bundle::POE::Simple::TCPIP::Services;
 use strict;
 use vars qw($VERSION);
 
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 1;
 
@@ -32,7 +32,7 @@ Microsoft Windows terms "Simple TCP/IP Services", namely:
 
 POE 0.38
 
-POE::Component::Server::Echo 1.52
+POE::Component::Server::Echo 1.54
 
 POE::Component::Server::Chargen
 
